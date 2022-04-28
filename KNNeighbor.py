@@ -36,3 +36,5 @@ def checkAccuracy(data):
             total += 1
     
     return correct/total
+
+
